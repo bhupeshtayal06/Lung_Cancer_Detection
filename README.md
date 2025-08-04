@@ -45,7 +45,7 @@ This dataset was used to train and evaluate all models for accurate lung cancer 
 
 ### 📥 Download Link
 
-👉 **[Download Dataset from Google Drive](https://drive.google.com/your-dataset-link-here)**  
+👉 **[Download Dataset from Google Drive](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images?resource=download)**  
 *Replace this link with your actual dataset URL*
 
 ### 📁 Folder Structure
